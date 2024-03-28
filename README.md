@@ -3,7 +3,7 @@
 
 
 ## GitHub Advanced Security SARIF
-- [Partner Documentation: Integrating with Code Scanning](https://partner.github.com/integration-resources/2021/03/09/pattern-integrating-with-code-scanning.html)https://partner.github.com/integration-resources/2021/03/09/pattern-integrating-with-code-scanning.html
+- [Partner Documentation: Integrating with Code Scanning](https://partner.github.com/integration-resources/2021/03/09/pattern-integrating-with-code-scanning.html)
 
 ## [SARIF Viewers](https://sarifweb.azurewebsites.net/#Viewers)
 - [React SARIF Viewer](https://microsoft.github.io/sarif-web-component/) - A React-based component for viewing SARIF files.
