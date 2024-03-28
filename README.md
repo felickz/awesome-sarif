@@ -4,7 +4,7 @@
 
 ## GitHub Advanced Security SARIF
 - [Partner Documentation: Integrating with Code Scanning](https://partner.github.com/integration-resources/2021/03/09/pattern-integrating-with-code-scanning.html)
-
+- [PartialFingerprints implementation](https://github.com/github/codeql-action/blob/main/src/fingerprints.ts) - TypeScript implementation of a hash method that computes a rolling hash for every line in the input.
 ## [SARIF Viewers](https://sarifweb.azurewebsites.net/#Viewers)
 - [React SARIF Viewer](https://microsoft.github.io/sarif-web-component/) - A React-based component for viewing SARIF files.
 - [VSCode SARIF Viewer](https://marketplace.visualstudio.com/items?itemName=MS-SarifVSCode.sarif-viewer) - Adds support for viewing SARIF logs
