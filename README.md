@@ -18,3 +18,4 @@
 
 ## SARIF Tools
 - [sarifweb.azurewebsites.net](https://sarifweb.azurewebsites.net/#ToolsLibraries) - A collection of tools offering facilities for producing, consuming, and validating files in the SARIF format.
+- [hohn/sarif-cli](https://github.com/hohn/sarif-cli/) - Command line tools for working with SARIF files. The main tools are: `sarif-extract-scans-runner`, `sarif-aggregate-scans`,`sarif-create-aggregate-report`.
