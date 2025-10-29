@@ -19,3 +19,4 @@
 ## SARIF Tools
 - [sarifweb.azurewebsites.net](https://sarifweb.azurewebsites.net/#ToolsLibraries) - A collection of tools offering facilities for producing, consuming, and validating files in the SARIF format.
 - [hohn/sarif-cli](https://github.com/hohn/sarif-cli/) - Command line tools for working with SARIF files. The main tools are: `sarif-extract-scans-runner`, `sarif-aggregate-scans`,`sarif-create-aggregate-report`.
+- [https://github.com/hohn/codeql-for-firefox](https://github.com/hohn/codeql-for-firefox) - This repo hosts a large-scale CodeQL demo database for **Firefox**. Purpose: to demonstrate realistic CodeQL performance and scaling. Smaller demo repos understate costs and mislead about practical usage. ex: minimize-sarif.py
