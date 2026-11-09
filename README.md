@@ -8,6 +8,7 @@
 ## [SARIF Viewers](https://sarifweb.azurewebsites.net/#Viewers)
 - [React SARIF Viewer](https://microsoft.github.io/sarif-web-component/) - A React-based component for viewing SARIF files.
 - [VSCode SARIF Viewer](https://marketplace.visualstudio.com/items?itemName=MS-SarifVSCode.sarif-viewer) - Adds support for viewing SARIF logs
+- [SARIF Viewer for VS Code (Zovo)](https://marketplace.visualstudio.com/items?itemName=zovo.zovo-sarif-viewer) - Opens SARIF 2.1.0 logs as a table grouped by rule, file or level, maps CI paths such as `/home/runner/work/...` to the workspace, filters by baseline state and suppression, and compares two logs. Also on Open VSX for Cursor and VSCodium
 - [Visual Studio SARIF Viewer](https://marketplace.visualstudio.com/items?itemName=WDGIS.MicrosoftSarifViewer2022) - Visual Studio Static Analysis Results Interchange Format (SARIF) log file viewer
 - [JetBrains SARIF Viewer](https://plugins.jetbrains.com/plugin/23159-sarif-viewer) - SARIF viewer to view the results of static analysis tools in the IDE (Compatible with IntelliJ IDEA, Android Studio, AppCode, Aqua, CLion, DataGrip, DataSpell, GoLand, MPS, PhpStorm, PyCharm (Professional, Community), Rider, RubyMine, RustRover, WebStorm)
 - [Azure DevOps SARIF SAST Scans Tab](https://marketplace.visualstudio.com/items?itemName=sariftools.scans) - Adds a 'Scans' tab to each Build Result and Work Item for viewing associated SARIF SAST logs.
